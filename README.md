@@ -11,4 +11,4 @@ Hi, I am an applied mathematician working on problems at the interface of mechan
 
 I am also interested in scientific outreach, right now on the climate crisis front. I am currently working with friends on a [website in Tamil](https://paruvanilai.wordpress.com) to create awareness about effects of human actions on the climate.
 
-* You can reach me here: <gangaprasath@seas.harvard.edu>
+* You can reach me here: <sgangaprasath@iitm.ac.in>
